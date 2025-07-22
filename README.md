@@ -16,8 +16,8 @@ The app collects the following personal information:
 - FCM 토큰: 푸시 알림 발송  
   FCM token: For sending push notifications
 
-- 프로필 이미지 (사용자 아이콘): 사용자 계정의 시각적 식별  
-  Profile image (user icon): For visually representing the user's account
+- 프로필 이미지 (사용자 아이콘) 및 사용자가 선택한 팀 아이콘 이미지: 사용자 계정 및 팀 커스터마이징 시각화
+  Profile image (user icon) and user-selected team icon image: For visually representing the user's account and team customization
 
 ---
 
