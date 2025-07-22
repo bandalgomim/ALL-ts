@@ -45,6 +45,9 @@ The collected personal information is used solely for the following purposes:
 - 별도 저장 없이 앱 운영 목적에 한하여 사용됩니다.  
   The data is used only for operational purposes and is not stored separately.
 
+- 수집된 이미지 파일은 사용자 계정 삭제 또는 팀 아이콘 변경 시 즉시 삭제됩니다.
+  All user-selected images are deleted immediately when the user account is deleted or when the team icon is changed.
+
 ---
 
 ## 4. 개인정보 제3자 제공 / Sharing with Third Parties
